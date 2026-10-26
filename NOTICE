@@ -1,0 +1,10 @@
+Sudoku Solver
+Copyright 2017-2026 Andrea Lorenzani
+
+This product is licensed under the Apache License, Version 2.0 (see LICENSE).
+
+Modifications: in 2026 the code base was upgraded (Scala 2.12 -> Scala 3,
+sbt 0.13 -> 1.x, ScalaTest -> MUnit) and rewritten with modern, immutable
+patterns with the assistance of Claude (Anthropic). Every source file carries
+an SPDX identifier and the copyright notice of the original author. See
+README.md for the list of changes.
